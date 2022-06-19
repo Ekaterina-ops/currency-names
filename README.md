@@ -1,0 +1,2 @@
+# currency-names
+Название валют
